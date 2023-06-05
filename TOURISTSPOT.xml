@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<TouristSpots>
+
+    <TouristLocation>
+        <Location>Gasan</Location>
+        <TouristSpots_Events>Gaspar Island</TouristSpots_Events>
+        <Description> Gaspar Island is a popular tourist destination in Gasan, Marinduque. It offers stunning white sand beaches, crystal-clear waters, and vibrant marine life, making it ideal for snorkeling and diving enthusiasts. The island also features a lighthouse, which provides panoramic views of the surrounding areas.</Description>
+        <Image>attraction/gaspar2.jpg</Image>
+    </TouristLocation>
+    <TouristLocation>
+        <Location>Gasan</Location>
+        <TouristSpots_Events>Gasan Church (St. Joseph Parish Church)</TouristSpots_Events>
+        <Description>The St. Joseph Parish Church, located in Gasan, is a historic and picturesque church that dates back to the Spanish colonial period. The church's beautiful architecture and serene atmosphere make it a notable attraction for visitors interested in history and religious heritage.</Description>
+        <Image>attraction/romano.jpg</Image>
+    </TouristLocation>
+    
+    
+    
+    
+    
+    
+    
+</TouristSpots>

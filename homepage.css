@@ -1,0 +1,64 @@
+/* homepage.css */
+
+/* Reset default styles */
+body, h1, h2, h3, h4, h5, h6, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set default font and text color */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-image: url("Marinduque_Island.jpg");
+    background-size: 200% 150%;
+     background-attachment: fixed;
+    
+}
+
+/* Header styles */
+header {
+    background-color: lightcyan;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Main styles */
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+/* Adjustments for mobile devices */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 20px;
+    }
+}

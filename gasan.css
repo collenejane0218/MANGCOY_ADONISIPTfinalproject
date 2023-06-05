@@ -1,0 +1,81 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  background-image: url("Marinduque_Island.jpg");
+  background-size: 200% 150%;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+/* Styles for the "Where to Stay" section */
+.where-to-stay {
+  text-align: center;
+  padding: 20px;
+}
+
+.where-to-stay h2 {
+  color: #333;
+}
+
+.where-to-stay img {
+  display: block;
+  margin: 0 auto;
+  max-width: 400px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+/* Styles for the "Featured Events" section */
+.featured-events {
+  text-align: center;
+  padding: 20px;
+}
+
+.featured-events h2 {
+  color: #333;
+}
+
+.featured-events img {
+  display: block;
+  margin: 0 auto;
+  max-width: 300px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.featured-events p {
+  margin-bottom: 20px;
+}
+
+/* Styles for the "Tourist Spots" section */
+.tourist-spots {
+  text-align: center;
+  padding: 20px;
+}
+
+.tourist-spots h2 {
+  color: #333;
+}
+
+.tourist-spots img {
+  display: block;
+  margin: 0 auto;
+  max-width: 300px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.tourist-spots p {
+  margin-bottom: 20px;
+}
+
+/* Styles for the "Previous" link */
+.previous {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  color: #333;
+  text-decoration: none;
+}
